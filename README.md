@@ -4,6 +4,7 @@ The [Watson AlchemyAPI Bluemix Service](http://www.alchemyapi.com/) offers sophi
 
 The goal of this tutorial is to demonstrate how to get started with an integration between Watson Explorer and the Watson AlchemyAPI service available on IBM Bluemix. By the end of the tutorial you will have enriched the example-metadata crawl with entities discovered by Alchemy Entity Extraction and created an entity facet for a Watson Explorer Engine search.
 
+**note:** The latest versions of Watson Explorer ship with an [Alchemy Language converter](http://www.ibm.com/support/knowledgecenter/en/SS8NLW_11.0.2/com.ibm.swg.im.infosphere.dataexpl.engine.doc/t_vse_alchemylanguage_converter.html) that can be easily configured as an out-of-box solution.
 
 ## Prerequisites
 Please see the [Introduction](https://github.com/Watson-Explorer/wex-wdc-integration-samples) for an overview of the integration architecture, and the tools and libraries that need to be installed to create Java-based applications in Bluemix.
